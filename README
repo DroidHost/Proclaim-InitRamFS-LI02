@@ -1,0 +1,6 @@
+This repo is the modified unsecure initramfs with stock modules. the kernel
+extraversion on these is -1193552 thats all you need to build a fully working
+LI02 BASEBAND Kernel that will not remove the MEID from the device
+as long as your using the LI02 kernel source. which can be found here and on 
+http://opensource.samsung.com look up SCH-S720C and download the one ending 
+in "UPDATE"1"
